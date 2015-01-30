@@ -1,7 +1,7 @@
 # mensa.js - Get all the Foods :pizza: :hamburger:
 
 ### install
-You need node.js + npm to use this script.
+You need [node.js + npm](http://nodejs.org/) to use this script.
 To install all dependencies simply run:
 ```
 $ npm init
