@@ -2,6 +2,7 @@
   "name": "mensa",
   "description": "Get the current menu from the OVGU mensa.",
   "version": "1.0.0",
+  "private": true,
   "main": "mensa.js",
   "author": "ysengrimm",
   "dependencies": {
