@@ -4,7 +4,7 @@
 You need [node.js + npm](http://nodejs.org/) to use this script.
 To install all dependencies simply run:
 ```
-$ npm init
+$ npm install
 ```
 ### usage
 ```
